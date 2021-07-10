@@ -1,0 +1,33 @@
+body {
+    Font-Family: 'Droid Serif', Serif;
+    Font-Size: 15px;
+    line-height: 1.5;
+}
+
+h4, nav {
+    Font-Family: 'Roboto', Sans-Serif;
+    Font-Size: 25px;
+}
+
+footer {
+    color: black;
+    Font-Family: 'Roboto', Sans-Serif;
+    Font-Size: 15px;
+}
+
+#about {
+    padding-top: 100px;
+}
+
+#services {
+    padding-top: 100px;
+}
+
+#pricing {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#logo {
+    padding-left: 75px;
+}
